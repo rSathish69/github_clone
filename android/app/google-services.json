@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012181233902",
+    "project_id": "teamhub-d7093",
+    "storage_bucket": "teamhub-d7093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012181233902:android:8d5d182bdf214312d103ff",
+        "android_client_info": {
+          "package_name": "com.example.github_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYrO5ZqHNZys59piQZpPS9MSyAuU7ixuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
